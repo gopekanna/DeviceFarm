@@ -20,7 +20,7 @@ public class AppiumTest {
 AndroidDriver<WebElement> driver;
 	
 	String emailId = "sakthivel@testleaf.com";
-	String defPassword = "Leaf@123";
+	String defPassword = "XXXXXXXX";
 	String company = "TestLeaf";
 
 	@BeforeMethod
